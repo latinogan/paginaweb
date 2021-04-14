@@ -1,0 +1,16 @@
+{
+  "name": "mi-pagina-web",
+  "description": "esta es una pagina web para agregar ami portafolio",
+  "version": "1.0.0",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://ikhoudvanyou93@bitbucket.org/ikhoudvanyou93/mi-pagina-web.git"
+  },
+  "author": "roger smit",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/ikhoudvanyou93/mi-pagina-web#readme"
+}
