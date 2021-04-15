@@ -19,7 +19,10 @@
   },
   "dependencies": {
     "bootstrap": "^4.6.0",
+    "ionic": "^5.4.16",
+    "ionicons": "^5.5.1",
     "jquery": "^3.6.0",
+    "open-iconic": "^1.1.1",
     "popper.js": "^1.16.1"
   }
 }
