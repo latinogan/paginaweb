@@ -46,7 +46,7 @@
 
 }
 .node{
-  width: 150px
+  width: 170px
 }
 .mongo{
   width: 140px
@@ -56,11 +56,11 @@
 
 }
 .native{
-  width: 180px
+  width: 170px
 }
 .bootstrap{
   width: 170px
 }
-.img2{
-  width: 800px
+.LI-profile-badge{
+  align-items: center
 }
