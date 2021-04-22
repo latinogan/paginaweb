@@ -1,10 +1,10 @@
 .header {
   padding: 60px;
   text-align: center;
- 
  background-image: url(https://i.blogs.es/4deb03/lenguajes-de-programacion-2020-jetbrains/450_1000.jpg);
   color: white;
   font-size: 30px;
+
 }
 .about{
   text-align: center;
@@ -54,13 +54,32 @@
 .redux{
   width: 230px
 
+
 }
 .native{
-  width: 170px
+  width: 180px
+  
 }
 .bootstrap{
-  width: 170px
+  width: 185px
+ 
 }
 .LI-profile-badge{
   align-items: center
+}
+.proyect{
+   font-family: sans-serif;
+  font-size: 250%;
+  font-style: italic;
+  background-color: #140033;
+  color: white;
+  text-align: center
+}
+.text1{
+  color: white
+
+}
+.text2{
+  color: white
+  
 }
